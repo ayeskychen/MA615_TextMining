@@ -200,7 +200,7 @@ text2 %>%
 
 The word cloud analysis also gives us a sense of what the blog is mainly about. Take blog 2 as an example. We can clearly see that the blog is about a gaming AI model. 
 
-##Digram sentiment Analysis
+##Bigram sentiment Analysis
 
 ```{r,echo=FALSE,warning=FALSE,,fig.width=3,fig.height=3}
 #taking bigram and filtering out non character and OAs
